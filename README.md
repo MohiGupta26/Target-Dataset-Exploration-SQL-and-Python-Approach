@@ -1,4 +1,4 @@
-# Sales-Analysis-Project
+# Target-Insight-Data-Exploration
 Navigating the future of Online Shopping
 
 Project: Exploring and analyzing a dataset using SQL, Python, and visualizations to extract valuable business insights.
